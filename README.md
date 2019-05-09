@@ -2,10 +2,10 @@
 
 Click the links below 
 
-[Monogram](https://scott-hogsett.github.io/IXD103-module-work/monogram.pdf)
+[Monogram]()
 
-[Visualmarque](https://scott-hogsett.github.io/IXD103-module-work/visualmarque.pdf)
+[Visualmarque]()
 
-[Wordmark](https://scott-hogsett.github.io/IXD103-module-work/wordmark.pdf)
+[Wordmark]()
 
-[Brand Guidlines](https://scott-hogsett.github.io/IXD103-module-work/brand-guidelines.pdf)
+[Brand Guidlines]()
